@@ -1,20 +1,25 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Nyxt](https://nyxt.atlas.engineer/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Nyxt Browser](https://nyxt.atlas.engineer/).
 
 ![Screenshot](./screenshot.png)
+  
+![Second Screenshot](./screenshot.1.png)
+  
+![Third Screenshot](./screenshot.2.png)
+
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/nyxt](https://draculatheme.com/nyxt).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/qbittorrent/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Mahdy Mirzade](https://github.com/mahdymirzade.png?size=100)](https://github.com/mahdymirzade) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Mahdy Mirzade](https://github.com/mahdymirzade) |
 
 ## License
 
