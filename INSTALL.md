@@ -2,14 +2,14 @@
 
 **Note:** Make sure that you have nyxt folder in your config path:
 ```
-$ mkdir -p ~/.config/nyxt
+mkdir -p ~/.config/nyxt
 ```
 
 #### Install using Git
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 ```
-$ git clone https://github.com/dracula/nyxt.git
-$ cp nyxt/*.lisp ~/.config/nyxt
+git clone https://github.com/dracula/nyxt.git
+cp nyxt/*.lisp ~/.config/nyxt
 ```
 
 #### Install manually
