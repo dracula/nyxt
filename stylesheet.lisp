@@ -1,3 +1,5 @@
+(in-package #:nyxt-user)
+
 ;; Configure Webpage Colors
 (define-configuration window
   ((message-buffer-style
@@ -89,11 +91,9 @@
   ((style (str:concat
            %slot-default%
            (cl-css:css
-            '(("#container"
-               ;; Columns: controls, arrow, url, arrow, tabs, arrow, modes
-               :grid-template-columns "10px 10px 1fr 10px 2fr 10px 250px")
-              ("#controls"
-               :border-top "1px solid #6272a4")
+            '(("#controls"
+               :border-top "1px solid #6272a4"
+               :background-color "#21222C")
               ("#url"
                :background-color "#21222C"
                :color "#f8f8f2"
@@ -105,3 +105,14 @@
                :background-color "#6272a4"
                :color "#f8f8f2"
                :border-top "1px solid #6272a4")))))))
+
+(define-configuration nyxt/style-mode:dark-mode
+  ((style #.(cl-css:css
+             '((*
+                :background-color "#21222C !important"
+                :background-image "none !important"
+                :color "#f8f8f2")
+               (a
+                :background-color "#21222C !important"
+                :background-image "none !important"
+                :color "#556B2F !important"))))))
