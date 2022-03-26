@@ -1,6 +1,5 @@
 (in-package #:nyxt-user)
 
 ;; Import Files
-(dolist (file (list (nyxt-init-file "statusline.lisp")
-                    (nyxt-init-file "stylesheet.lisp")))
-  (load file))
+(nyxt::load-lisp "~/.config/nyxt/statusline.lisp")
+(nyxt::load-lisp "~/.config/nyxt/stylesheet.lisp")
