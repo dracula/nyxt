@@ -1,3 +1,5 @@
+
+;; For version 3
 (in-package #:nyxt-user)
 
 ;; This only works on the versions of Nyxt after 2.2.4.
@@ -25,8 +27,7 @@
                 :background-image "none !important"
                 :color "#6272a4 !important"))))))
 
-;;
-;; Configurations for versions below 2.2.4:
+;;For version 2.2.4 and BELOW use this:
 ;;
 ;;;; Configure Webpage Colors
 ;;(define-configuration window
