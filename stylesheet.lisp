@@ -27,7 +27,7 @@
                 :background-image "none !important"
                 :color "#6272a4 !important"))))))
 
-;;For version 2.2.4 and BELOW use this:
+;;For version 2.2.4 AND below use this:
 ;;
 ;;;; Configure Webpage Colors
 ;;(define-configuration window
