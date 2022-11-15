@@ -1,4 +1,7 @@
+
+;; For version 3
 (in-package #:nyxt-user)
+
 
 ;; Set StatusLines Mode Icons
 (define-configuration status-buffer ((glyph-mode-presentation-p t)))
@@ -12,6 +15,8 @@
 (define-configuration nyxt/web-mode:web-mode ((glyph "ω")))
 (define-configuration nyxt/auto-mode:auto-mode ((glyph "α")))
 
+
+;;For version 2.2.4 AND below use this:
 ;;;; Set StatusLines URL Icons
 ;;(defun laconic-format-status-load-status (buffer)
 ;;  (if (web-buffer-p buffer)
