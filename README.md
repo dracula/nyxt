@@ -16,9 +16,9 @@ All instructions can be found at [draculatheme.com/nyxt](https://draculatheme.co
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/nyxt/graphs/contributors).
 
-| [![Mahdi Mirzade](https://github.com/mahdimirzade.png?size=100)](https://github.com/mahdimirzade) |
-| ------------------------------------------------------------------------------------------------- |
-| [Mahdi Mirzade](https://github.com/mahdimirzade)                                                  |
+| [![Mahdi Mirzade](https://github.com/mahdimirzadeh.png?size=100)](https://github.com/mahdimirzadeh) | [![zenorocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| --- | --- |
+| [Mahdi Mirzadeh](https://github.com/mahdimirzadeh) | [zenorocha](https://github.com/zenorocha) |
 
 ## Community
 
